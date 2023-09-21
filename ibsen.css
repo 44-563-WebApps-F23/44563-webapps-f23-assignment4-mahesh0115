@@ -1,0 +1,23 @@
+.speech{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+    color: black;
+}
+.direction{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18;
+    background-color: #36eded;
+}
+.direction:hover{
+    color:black;
+    background-color: #4814d7;
+}
+.peter{
+    color: rgb(204, 236, 18);
+}
+.stockmann{
+    color: #ff008c;
+}
+.hovstad{
+    color: hsl(152, 100%, 50%);
+}
