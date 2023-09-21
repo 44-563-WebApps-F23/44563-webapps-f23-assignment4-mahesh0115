@@ -21,3 +21,23 @@
 .hovstad{
     color: hsl(152, 100%, 50%);
 }
+td{
+    border: solid 1px rgb(121, 142, 133);
+    text-align:center;
+    padding: 20px 25px 20px 25px;
+    font-size:large;
+    }
+th{
+    border: dotted 2px #a600ff;
+    text-align:center;
+    margin: 25px 50px 25px 50px;
+    color:skyblue ;
+    font-size:x-large;
+    }
+tr:nth-child(even) {
+    color: #ff000d;
+    }
+.collapsing{
+    border: solid 3px rgb(12, 136, 224);
+    border-collapse:initial;
+    }
