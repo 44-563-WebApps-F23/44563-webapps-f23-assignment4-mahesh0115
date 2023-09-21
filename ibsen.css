@@ -41,3 +41,7 @@ tr:nth-child(even) {
     border: solid 3px rgb(12, 136, 224);
     border-collapse:initial;
     }
+    h4:hover{
+        text-shadow: 3px 3px 5px hwb(313 18% 3%);
+        border: solid hwb(133 9% 38%);
+    }
